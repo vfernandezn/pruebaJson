@@ -1,0 +1,235 @@
+{
+   "jsonrpc":"2.0",
+   "id":null,
+   "result":{
+      "mensaje":":)",
+      "data":{
+         "estudiantes":[
+            {
+               "carné":"001",
+               "nombre":"Juan Pérez",
+               "correo":"juanperez@example.com",
+               "telefono1":"11111111",
+               "telefono2":"22222222"
+            },
+            {
+               "carné":"002",
+               "nombre":"María González",
+               "correo":"mariagonzalez@example.com",
+               "telefono1":"33333333",
+               "telefono2":"44444444"
+            },
+            {
+               "carné":"003",
+               "nombre":"Luis Rodríguez",
+               "correo":"luisrodriguez@example.com",
+               "telefono1":"55555555",
+               "telefono2":"66666666"
+            },
+            {
+               "carné":"004",
+               "nombre":"Ana Martínez",
+               "correo":"anamartinez@example.com",
+               "telefono1":"77777777",
+               "telefono2":"88888888"
+            },
+            {
+               "carné":"005",
+               "nombre":"Carlos Sánchez",
+               "correo":"carlossanchez@example.com",
+               "telefono1":"99999999",
+               "telefono2":"00000000"
+            },
+            {
+               "carné":"006",
+               "nombre":"Laura López",
+               "correo":"lauralopez@example.com",
+               "telefono1":"12121212",
+               "telefono2":"34343434"
+            },
+            {
+               "carné":"007",
+               "nombre":"Pedro Ramírez",
+               "correo":"pedroramirez@example.com",
+               "telefono1":"56565656",
+               "telefono2":"78787878"
+            },
+            {
+               "carné":"008",
+               "nombre":"María Rodríguez",
+               "correo":"mariarodriguez@example.com",
+               "telefono1":"90909090",
+               "telefono2":"12121212"
+            },
+            {
+               "carné":"009",
+               "nombre":"Alejandro Gómez",
+               "correo":"alejandrogomez@example.com",
+               "telefono1":"34343434",
+               "telefono2":"56565656"
+            },
+            {
+               "carné":"010",
+               "nombre":"Carolina Hernández",
+               "correo":"carolinahernandez@example.com",
+               "telefono1":"78787878",
+               "telefono2":"90909090"
+            },
+            {
+               "carné":"011",
+               "nombre":"Sergio Mendoza",
+               "correo":"sergiomendoza@example.com",
+               "telefono1":"23232323",
+               "telefono2":"45454545"
+            },
+            {
+               "carné":"012",
+               "nombre":"Valentina Morales",
+               "correo":"valentinamorales@example.com",
+               "telefono1":"67676767",
+               "telefono2":"89898989"
+            },
+            {
+               "carné":"013",
+               "nombre":"Andrés Castro",
+               "correo":"andrescastro@example.com",
+               "telefono1":"12121212",
+               "telefono2":"34343434"
+            },
+            {
+               "carné":"014",
+               "nombre":"Juliana Ramírez",
+               "correo":"julianaramirez@example.com",
+               "telefono1":"56565656",
+               "telefono2":"78787878"
+            },
+            {
+               "carné":"015",
+               "nombre":"Miguel González",
+               "correo":"miguelgonzalez@example.com",
+               "telefono1":"90909090",
+               "telefono2":"12121212"
+            },
+            {
+               "carné":"016",
+               "nombre":"Daniela Rodríguez",
+               "correo":"danielarodriguez@example.com",
+               "telefono1":"34343434",
+               "telefono2":"56565656"
+            },
+            {
+               "carné":"017",
+               "nombre":"Ricardo Gómez",
+               "correo":"ricardogomez@example.com",
+               "telefono1":"78787878",
+               "telefono2":"90909090"
+            },
+            {
+               "carné":"018",
+               "nombre":"Fernanda Hernández",
+               "correo":"fernandahernandez@example.com",
+               "telefono1":"23232323",
+               "telefono2":"45454545"
+            },
+            {
+               "carné":"019",
+               "nombre":"Diego Mendoza",
+               "correo":"diegomendoza@example.com",
+               "telefono1":"67676767",
+               "telefono2":"89898989"
+            },
+            {
+               "carné":"020",
+               "nombre":"Camila Morales",
+               "correo":"camilamorales@example.com",
+               "telefono1":"12121212",
+               "telefono2":"34343434"
+            },
+            {
+               "carné":"021",
+               "nombre":"Javier Ramírez",
+               "correo":"javierramirez@example.com",
+               "telefono1":"56565656",
+               "telefono2":"78787878"
+            },
+            {
+               "carné":"022",
+               "nombre":"Isabella González",
+               "correo":"isabellagonzalez@example.com",
+               "telefono1":"90909090",
+               "telefono2":"12121212"
+            },
+            {
+               "carné":"023",
+               "nombre":"Juanita Rodríguez",
+               "correo":"juanitarodriguez@example.com",
+               "telefono1":"34343434",
+               "telefono2":"56565656"
+            },
+            {
+               "carné":"024",
+               "nombre":"Santiago Gómez",
+               "correo":"santiagogomez@example.com",
+               "telefono1":"78787878",
+               "telefono2":"90909090"
+            },
+            {
+               "carné":"025",
+               "nombre":"Valeria Hernández",
+               "correo":"valeriahernandez@example.com",
+               "telefono1":"23232323",
+               "telefono2":"45454545"
+            },
+            {
+               "carné":"026",
+               "nombre":"Lucas Mendoza",
+               "correo":"lucasmendoza@example.com",
+               "telefono1":"67676767",
+               "telefono2":"89898989"
+            },
+            {
+               "carné":"027",
+               "nombre":"Gabriela Morales",
+               "correo":"gabrielamorales@example.com",
+               "telefono1":"12121212",
+               "telefono2":"34343434"
+            },
+            {
+               "carné":"028",
+               "nombre":"Roberto Ramírez",
+               "correo":"robertoramirez@example.com",
+               "telefono1":"56565656",
+               "telefono2":"78787878"
+            },
+            {
+               "carné":"029",
+               "nombre":"Sofía González",
+               "correo":"sofiagonzalez@example.com",
+               "telefono1":"90909090",
+               "telefono2":"12121212"
+            },
+            {
+               "carné":"030",
+               "nombre":"Emilio Rodríguez",
+               "correo":"emiliorodriguez@example.com",
+               "telefono1":"34343434",
+               "telefono2":"56565656"
+            },
+            {
+               "carné":"031",
+               "nombre":"Ana Gómez",
+               "correo":"anagomez@example.com",
+               "telefono1":"78787878",
+               "telefono2":"90909090"
+            },
+            {
+               "carné":"032",
+               "nombre":"Camilo Hernández",
+               "correo":"camilohernandez@example.com",
+               "telefono1":"23232323",
+               "telefono2":"45454545"
+            }
+         ]
+      }
+   }
+}
